@@ -1,0 +1,2 @@
+git init
+git remote add origin git@github.com:jhsu98/deployment-tutorial.git
