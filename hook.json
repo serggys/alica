@@ -1,2 +1,2 @@
 git init
-git remote add origin git@github.com:jhsu98/deployment-tutorial.git
+git remote add origin git@github.com:serggys/deployment-tutorial.git
